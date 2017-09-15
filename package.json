@@ -1,0 +1,24 @@
+{
+  "name": "sw-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "notification.js",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./node_modules/.bin/http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/muyuu/sw-sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muyuu/sw-sandbox/issues"
+  },
+  "homepage": "https://github.com/muyuu/sw-sandbox#readme"
+}
